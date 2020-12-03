@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm currently leaarning
+### I'm currently learning
 * redux
 * TypeScript
 * react
