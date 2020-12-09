@@ -8,7 +8,7 @@
 ### How to reach me
 * bgj0127@gmail.com 
 * velog : https://velog.io/@gou5met
-* ortfolio : https://www.notion.so/b72952ef2ad548c1879268deb81d9252
+* portfolio : https://www.notion.so/b72952ef2ad548c1879268deb81d9252
 
 ### Stack
 
