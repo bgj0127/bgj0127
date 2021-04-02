@@ -2,7 +2,7 @@
 
 ### I'm currently learning
 * redux
-* TypeScript
+* typeScript
 * react
 
 ### How to reach me
