@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 ### I'm currently learning
-* redux
-* typeScript
-* react
+* flutter
+* dart
 
 ### How to reach me
 * bgj0127@gmail.com 
