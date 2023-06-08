@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 ### I'm currently learning
-* flutter
-* dart
+* QA
+* playWright
 
 ### How to reach me
 * bgj0127@gmail.com 
-* velog : https://velog.io/@gou5met
 
 
 
