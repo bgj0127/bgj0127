@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 ### I'm currently learning
-* QA
-* playWright
+* Python   
+  * FastAPI
+  * pandas
+* javascript
+  * React
 
 ### How to reach me
 * bgj0127@gmail.com 
