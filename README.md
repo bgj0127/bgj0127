@@ -4,10 +4,12 @@
 * Python   
   * FastAPI
   * pandas
+  * SQLAlchemy (new!✨)
 * JavaScript
   * React
 * DB
   * Oracle DB
+  * PostgreSQL (new!✨)
 
 ### How to reach me
 * bgj0127@gmail.com 
