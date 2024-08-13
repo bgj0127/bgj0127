@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,arduino,fastapi,git,nodejs,postgres,py&perline=4)](https://skillicons.dev)
 
 ## Currently learning
-[![My Skills](https://skillicons.dev/icons?i=ts,vite,arduino,fastapi,nodejs,postgres&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,fastapi,nodejs,postgres&perline=4)](https://skillicons.dev)
 
 <!--
 **bgj0127/bgj0127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
