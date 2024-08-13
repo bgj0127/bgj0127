@@ -1,20 +1,5 @@
-### Hi there 👋
-
-### I'm currently learning
-* Python   
-  * FastAPI
-  * pandas
-  * SQLAlchemy (new!✨)
-* JavaScript
-  * React
-* DB
-  * Oracle DB
-  * PostgreSQL (new!✨)
-
-### How to reach me
-* bgj0127@gmail.com 
-
-
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,arduino,fastapi,git,nodejs,postgres,py,)](https://skillicons.dev)
 
 
 
