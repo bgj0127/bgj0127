@@ -1,7 +1,7 @@
 <!-- Header -->
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=2000&color=29f175&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub!😃;QA,+Front-end,+Back-end,+and+more!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=2000&color=29f175&center=true&vCenter=true&width=550&lines=Welcome+to+My+GitHub!😃;QA,+Front-end,+Back-end,+and+more!" alt="Typing SVG" />
 </div>
 
 ## My Skills
